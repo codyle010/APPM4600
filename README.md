@@ -1,1 +1,2 @@
+Cody
 The purpose of this repository is to contain Cody Levine's APPM4600 Applied Numeric Methods Homework and Labs. The structure of this repository is as follows: the primary directory is the APPM4600 folder. It contains both the Homework and Labs folders. Pretty self explanatory; each individual homework and lab assignment will get their own subfolder inside their respective big folder. This is in order to keep my work organized and well kept; allowing for both me, the professor, and TAs to see my work in an orderly fashion. 
